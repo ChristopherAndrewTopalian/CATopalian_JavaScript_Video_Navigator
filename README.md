@@ -3,6 +3,8 @@ A JavaScript Video App that makes studying and organizing video data very easy a
 
 ---
 
+Video: https://www.youtube.com/watch?v=vwLxzrJCvhg
+
 ![001](src/media/textures/screenshots/001.PNG)
 
 ![002](src/media/textures/screenshots/002.PNG)
