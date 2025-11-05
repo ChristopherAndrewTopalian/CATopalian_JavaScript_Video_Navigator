@@ -5,6 +5,8 @@ A JavaScript Video App that makes studying and organizing video data very easy a
 
 Video: https://www.youtube.com/watch?v=vwLxzrJCvhg
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Navigator/CATopalian_JavaScript_Video_Navigator.html
+
 ![001](src/media/textures/screenshots/001.PNG)
 
 ![002](src/media/textures/screenshots/002.PNG)
