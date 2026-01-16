@@ -2,6 +2,7 @@
 
 body
 {
+    margin: 0px 8px;
     /* background-image: url('src/media/textures/bg/bg_grid_001.png'); */
     /* width: 1200px; */
     background-color: rgb(40, 40, 40);
@@ -457,7 +458,7 @@ hr
 /*----*/
 
 /* Dedicated to God the Father */
-/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025 */
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026 */
 /* https://github.com/ChristopherTopalian */
 /* https://github.com/ChristopherAndrewTopalian */
 /* https://sites.google.com/view/CollegeOfScripting */
